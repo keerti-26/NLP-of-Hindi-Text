@@ -1,16 +1,4 @@
-## Part 5: advanced natural language processing using udpipe package, 
-## and a slew of other nifty ones..
 
-## ============================================================================
-## ADVANCED NLP
-## ============================================================================
-
-## If it works, adapted by dino from code on a kaggle competition,
-## otherwise i have no idea who wrote this!
-
-## You don't have to do this because you already installed these.. But
-## you would have to do the below if you did not do my previous labs on
-## this machine...
 ## install.packages("tibble")
 ## install.packages("ggplot2")
 ## install.packages("dplyr")
